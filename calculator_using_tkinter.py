@@ -84,4 +84,3 @@ btn_equal.bind('<Button-1>', onClick)
 
 
 window.mainloop()
-
